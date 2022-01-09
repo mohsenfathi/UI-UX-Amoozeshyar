@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: ALEF-Vazir;
+    src: url('ALEF-Vazir-Regular.eot');
+    src: url('ALEF-Vazir-Regular.eot?#iefix') format('embedded-opentype'),
+         url('ALEF-Vazir-Regular.woff2') format('woff2'),
+         url('ALEF-Vazir-Regular.woff') format('woff'),
+         url('ALEF-Vazir-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: ALEF-Vazir;
+    src: url('ALEF-Vazir-Bold.eot');
+    src: url('ALEF-Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+         url('ALEF-Vazir-Bold.woff2') format('woff2'),
+         url('ALEF-Vazir-Bold.woff') format('woff'),
+         url('ALEF-Vazir-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: ALEF-Vazir;
+    src: url('ALEF-Vazir-Black.eot');
+    src: url('ALEF-Vazir-Black.eot?#iefix') format('embedded-opentype'),
+         url('ALEF-Vazir-Black.woff2') format('woff2'),
+         url('ALEF-Vazir-Black.woff') format('woff'),
+         url('ALEF-Vazir-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: ALEF-Vazir;
+    src: url('ALEF-Vazir-Medium.eot');
+    src: url('ALEF-Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+         url('ALEF-Vazir-Medium.woff2') format('woff2'),
+         url('ALEF-Vazir-Medium.woff') format('woff'),
+         url('ALEF-Vazir-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: ALEF-Vazir;
+    src: url('ALEF-Vazir-Light.eot');
+    src: url('ALEF-Vazir-Light.eot?#iefix') format('embedded-opentype'),
+         url('ALEF-Vazir-Light.woff2') format('woff2'),
+         url('ALEF-Vazir-Light.woff') format('woff'),
+         url('ALEF-Vazir-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: ALEF-Vazir;
+    src: url('ALEF-Vazir-Thin.eot');
+    src: url('ALEF-Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+         url('ALEF-Vazir-Thin.woff2') format('woff2'),
+         url('ALEF-Vazir-Thin.woff') format('woff'),
+         url('ALEF-Vazir-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
